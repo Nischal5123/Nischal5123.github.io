@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Nischal Aryal"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "Oregon State University"
   location         : "Corvallis,Oregon"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=_lCA5u4AAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Nischal-Aryal-2" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
