@@ -1,5 +1,3 @@
-
-
 ---
 title: "CS- 331 Artificial Intelligence"
 collection: teaching

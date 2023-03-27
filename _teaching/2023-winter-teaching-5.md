@@ -1,5 +1,3 @@
-
-
 ---
 title: "CS- 440 Database Management Systems"
 collection: teaching
