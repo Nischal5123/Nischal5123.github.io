@@ -1,7 +1,7 @@
 ---
 title: "Prediction of Cotton Field on Integrated Environmental Data"
 collection: publications
-permalink: /publication/2021-01-10-paper-title-number-3
+permalink: /publications/2021/01/paper-title-number-3
 excerpt: 
 date: 2021-01-10
 venue: 
