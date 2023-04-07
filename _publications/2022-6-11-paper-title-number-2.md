@@ -1,8 +1,8 @@
 ---
 title: "Do Regularizers improve “Reproducibility” in Deep Neural Networks?"
 collection: publications
-permalink: /publication/2022-6-11-paper-title-number-2
-excerpt:
+permalink: /publications/2022-6-11-paper-title-number-2
+excerpt: " "
 date: 2022-6-11
 venue: 
 paperurl: 
