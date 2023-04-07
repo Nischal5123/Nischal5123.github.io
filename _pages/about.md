@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am a Computer Science Ph.D. student at [Oregon State University(https://oregonstate.edu/about)] [Information & Data Management and Analytics (IDEA) Lab](https://web.engr.oregonstate.edu/~termehca/) where I am advised by [Prof. Arash Termehchy](https://engineering.oregonstate.edu/people/arash-termehchy).
 
-I am a Ph.D. student at the [[Oregon State University](https://oregonstate.edu/about)], where I am fortunate to be advised by Prof. Arash Termehchy
+My research involves analyzing user learning patterns on data exploration tasks in order to model human learning and biases for developing Adaptive Data Exploration Systems. Specifically, I study how people interact with data exploration tools and identify patterns in their behavior. By modeling human learning and biases, I aim to create data exploration systems that are more intuitive and effective for users.
+I also support various graduate and undergraduate courses as a Graduate Assistant.
 
-
-I am a member of [Information & Data Management and Analytics (IDEA) Laboratory](https://web.engr.oregonstate.edu/~termehca/)
+My background is in Software Development and ML/Data Engineering. 
+ I previously interned at Strategic Systems, [Alfa Insurance](https://www.alfainsurance.com/about-alfa), where I rotated roles in an Agile software development cycle and developed a customer support chatbot. I also worked as a Software Engineer at Alfa Insurance, specializing in MuleSoft development. Most recently, I completed a ML/Data Engineering internship at [Slalom Build](https://www.slalombuild.com/data-engineering), where I researched and developed an end-to-end data pipeline to infer employee happiness index
