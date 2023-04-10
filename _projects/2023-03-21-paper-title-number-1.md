@@ -1,7 +1,7 @@
 ---
 title: "Find your Match: Towards Simulating User Relevance Feedback"
-collection: publications
-permalink: /publication/2023-03-21-paper-title-number-1
+collection: projects
+permalink: /projects/2023-03-21-paper-title-number-1
 date: 2023-03-21
 venue:
 paperurl: 
