@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science Ph.D. student at [Oregon State University(https://oregonstate.edu/about)] [Information & Data Management and Analytics (IDEA) Lab](https://web.engr.oregonstate.edu/~termehca/) where I am advised by [Prof. Arash Termehchy](https://engineering.oregonstate.edu/people/arash-termehchy).
+I am a Computer Science Ph.D. student at [Oregon State University](https://oregonstate.edu/about), [Information & Data Management and Analytics (IDEA) Lab](https://web.engr.oregonstate.edu/~termehca/) where I am advised by [Prof. Arash Termehchy](https://engineering.oregonstate.edu/people/arash-termehchy).
 
 My research involves analyzing user learning patterns on data exploration tasks in order to model human learning and biases for developing Adaptive Data Exploration Systems. Specifically, I study how people interact with data exploration tools and identify patterns in their behavior. By modeling human learning and biases, I aim to create data exploration systems that are more intuitive and effective for users.
 I also support various graduate and undergraduate courses as a Graduate Assistant.
