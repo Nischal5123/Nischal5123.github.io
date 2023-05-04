@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+📄 **Find a PDF of my CV [here](https://drive.google.com/file/d/14d5UV8jQ55CG8E3jdPKagYs3jYNyHEcn/view?usp=sharing)** 📄
+
 Education
 ======
 * Ph.D in Computer Science, Oregon State University, 2021-Present
@@ -24,6 +26,7 @@ EECS Department, Oregon State University | Corvallis, Oregon
 - **Teaching:** Grade Examinations, Assignments and Quizzes, Lead Discussions and support Lectures. 
   - *Courses Supported:* Operating Systems, Artificial Intelligence, Software Engineering, Database Management Systems
 - **Reference:** Arash Termehchy, Professor, Oregon State University | termehca@oregonstate.edu
+
 
 ### Data Engineering Intern | June 2022 -- August 2022
 Slalom Build, Slalom | Seattle, Washington
