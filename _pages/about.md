@@ -13,12 +13,17 @@ I am a Computer Science Ph.D. student at [Oregon State University](https://orego
 My current research involves analyzing user learning patterns on data exploration tasks in order to model human learning and biases for developing Adaptive Data Exploration Systems. Specifically, I study how people interact with data exploration tools and identify patterns in their behavior. By modeling human learning and biases, I aim to create data exploration systems that are more intuitive and effective for users.
 I also support various graduate and undergraduate courses as a Graduate Assistant.
 
-My background is in Software Development and ML/Data Engineering. 
- I previously interned at Strategic Systems, [Alfa Insurance](https://www.alfainsurance.com/about-alfa), where I rotated roles in an Agile software development cycle and developed a customer support chatbot. I also worked as a Software Engineer at Alfa Insurance, specializing in MuleSoft development. Most recently, I completed a ML/Data Engineering internship at [Slalom Build](https://www.slalombuild.com/data-engineering), where I researched and developed an end-to-end data pipeline to infer employee happiness index
-
-
 ### Research Interests
 - **Exploratory Data Analysis**
 - **User Modeling**
 - **Reinforcement Learning**
 - **Visualization**
+
+My background is in ML/Data Engineering and Software Development. 
+ I previously interned at Strategic Systems, [Alfa Insurance](https://www.alfainsurance.com/about-alfa), where I rotated roles in an Agile software development cycle and developed a customer support chatbot. I also worked as a Software Engineer at Alfa Insurance, specializing in MuleSoft development. Most recently, I completed a ML/Data Engineering internship at [Slalom Build](https://www.slalombuild.com/data-engineering), where I researched and developed an end-to-end data pipeline to infer employee happiness index
+
+## Recent News
+- **Presented ['Analyzing User Learning in Interactive Data Exploration'](https://drive.google.com/file/d/1CuVgWxj_K4b2BDTXhldWElgGXebtkWAy/view?usp=sharing) at [NWDS](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/) @ Microsoft Research**
+- **1st place($750) [Graduate Students' Visualize Your Bibliography Competition](https://drive.google.com/file/d/1HfgNKNBgXX18z5fwEZFUvCX6Xwpi6dWQ/view?usp=sharing)**
+
+
