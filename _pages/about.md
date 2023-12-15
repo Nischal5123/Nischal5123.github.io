@@ -15,15 +15,17 @@ I also support various graduate and undergraduate courses as a Graduate Assistan
 
 ### Research Interests
 - **Exploratory Data Analysis**
-- **User Modeling**
-- **Reinforcement Learning**
-- **Visualization**
+- **Data Visualization**
+- **Human-Computer-Interaction**
+- **Recommender Systems**
 
 My background is in ML/Data Engineering and Software Development. 
  I previously interned at Strategic Systems, [Alfa Insurance](https://www.alfainsurance.com/about-alfa), where I rotated roles in an Agile software development cycle and developed a customer support chatbot. I also worked as a Software Engineer at Alfa Insurance, specializing in MuleSoft development. Most recently, I completed a ML/Data Engineering internship at [Slalom Build](https://www.slalombuild.com/data-engineering), where I researched and developed an end-to-end data pipeline to infer employee happiness index
 
 ## Recent News
-- **Presented ['Analyzing User Learning in Interactive Data Exploration'](https://drive.google.com/file/d/1CuVgWxj_K4b2BDTXhldWElgGXebtkWAy/view?usp=sharing) at [NWDS](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/) @ Microsoft Research**
-- **1st place($750) [Graduate Students' Visualize Your Bibliography Competition](https://drive.google.com/file/d/1HfgNKNBgXX18z5fwEZFUvCX6Xwpi6dWQ/view?usp=sharing)**
+- **Our work 'How does user behavior evolve in Exploratory Visual Analysis' has been accepted to CAIHu, AAAI , 2024**
+- **Officially PhD: Passed my PhD Qualifier Exam**
+- **Presented ['Analyzing User Learning in Interactive Data Exploration'](https://www.researchgate.net/publication/376450321_Analyzing_User_Learning_in_Interactive_Data_Exploration) at [NWDS](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/) @ Microsoft Research**
+- **1st place($750) [Graduate Students' Visualize Your Bibliography Competition](https://guides.library.oregonstate.edu/c.php?g=897062&p=9728058)**
 
 
