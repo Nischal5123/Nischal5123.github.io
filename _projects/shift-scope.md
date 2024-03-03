@@ -1,7 +1,7 @@
 ---
 title: "ShiftScope: Adapting Visualization Recommendations to Users’ Dynamic Data Focus"
 collection: projects
-permalink: /projects/2023-03-21-paper-title-number-1
+permalink: /projects/shift-scope
 date: 
 venue:
 paperurl: https://www.youtube.com/watch?v=n-jST9ShrfU

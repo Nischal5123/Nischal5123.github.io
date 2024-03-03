@@ -1,7 +1,7 @@
 ---
 title: "How Does User Behavior Evolve During Exploratory Visual Analysis?"
 collection: projects
-permalink: /projects/2023-01-paper-title-number-4
+permalink: /projects/2023-01-10-paper-title-number-5
 excerpt: "Exploratory visual analysis (EVA) is an essential stage of the
 data science pipeline, where users often lack clear analysis
 goals..."

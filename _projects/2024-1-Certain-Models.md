@@ -1,7 +1,7 @@
 ---
 title: "Certain and Approximately Certain Models for Statistical Learning"
 collection: projects
-permalink: /projects/2023-03-21-paper-title-number-1
+permalink: /projects/2024-1-21-Certain-Models
 date: 
 venue:
 paperurl: https://arxiv.org/pdf/2402.17926.pdf
