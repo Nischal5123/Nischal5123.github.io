@@ -1,7 +1,7 @@
 ---
 title: "Do Regularizers improve “Reproducibility” in Deep Neural Networks?"
 collection: projects
-permalink: /projects/2022-6-11-paper-title-number-2
+permalink: /projects/2022-06-11-paper-title-number-2
 excerpt: " A known problem with training deep neural networks,
 mostly parameterized by connection weights at each layer,
 is that of finding an appropriate model complexity under the

@@ -1,9 +1,9 @@
 ---
 title: "Certain and Approximately Certain Models for Statistical Learning"
 collection: projects
-permalink: /projects/2024-1-21-Certain-Models
-date: 2024-02-21
-venue:
+permalink: /projects/2024-01-21-Certain-Models
+date: 2024-01-21
+venue: SIGMOD
 paperurl: https://arxiv.org/pdf/2402.17926.pdf
 citation: 
 excerpt: "Real-world data is often incomplete and contains missing values.
