@@ -2,12 +2,12 @@
 title: "Find your Match: Towards Simulating User Relevance Feedback"
 collection: projects
 permalink: /projects/2023-03-21-paper-title-number-1
-date: 
+date: 2022-08-21
 venue:
 paperurl: http://academicpages.github.io/files/paper3.pdf
 citation: 
 excerpt: "This project proposes a deep learning-based approach
-that simulates the user-feedback loop in entity matching.. ![img.png](img.png)"
+that simulates the user-feedback loop in entity matching.. "
 ---
 
 ![img.png](img.png)

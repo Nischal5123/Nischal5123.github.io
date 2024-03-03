@@ -2,7 +2,7 @@
 title: "Certain and Approximately Certain Models for Statistical Learning"
 collection: projects
 permalink: /projects/2024-1-21-Certain-Models
-date: 
+date: 2024-02-21
 venue:
 paperurl: https://arxiv.org/pdf/2402.17926.pdf
 citation: 

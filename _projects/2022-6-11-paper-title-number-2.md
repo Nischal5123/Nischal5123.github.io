@@ -5,8 +5,8 @@ permalink: /projects/2022-6-11-paper-title-number-2
 excerpt: " A known problem with training deep neural networks,
 mostly parameterized by connection weights at each layer,
 is that of finding an appropriate model complexity under the
-empirical risk minimization setting... ![img_1.png](img_1.png)"
-date: 
+empirical risk minimization setting... "
+date: 2022-06-11
 venue: 
 paperurl: 
 citation: 
