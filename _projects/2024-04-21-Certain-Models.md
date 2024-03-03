@@ -1,14 +1,14 @@
 ---
 title: "Certain and Approximately Certain Models for Statistical Learning"
 collection: projects
-permalink: /projects/2024-01-21-Certain-Models
-date: 2024-01-21
+permalink: /projects/2024-04-21-Certain-Models
+date: 2024-04-21
 venue: SIGMOD
 paperurl: https://arxiv.org/pdf/2402.17926.pdf
 citation: 
 excerpt: "Real-world data is often incomplete and contains missing values.
 To train accurate models over real-world datasets, users need to
-spend a substantial amount of time and resources.. "
+spend a substantial amount of time and resources.. ![Certain-Models.png](Certain-Models.png)"
 ---
 ![Certain-Models.png](Certain-Models.png)
 

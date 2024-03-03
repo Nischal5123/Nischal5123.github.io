@@ -5,7 +5,7 @@ permalink: /projects/2021-01-10-paper-title-number-3
 excerpt: "The agriculture and farming industry plays a vital role in the economy. However, the importance of agriculture cannot be fully quantified in terms of its economic profit..."
 date: 2021-01-10
 venue: "Published ICAART"
-paperurl: 'http://dx.doi.org/10.5220/0010240707810786'
+paperurl: 'http://dx.doi.org/10.5220/0010240707810786![Prediction-Cotton.png](Prediction-Cotton.png)'
 citation: "" 
 ---
 ![Prediction-Cotton.png](Prediction-Cotton.png)

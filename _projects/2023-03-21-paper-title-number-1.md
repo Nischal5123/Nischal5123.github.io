@@ -7,7 +7,7 @@ venue:
 paperurl: http://academicpages.github.io/files/paper3.pdf
 citation: 
 excerpt: "This project proposes a deep learning-based approach
-that simulates the user-feedback loop in entity matching.. "
+that simulates the user-feedback loop in entity matching.. ![img.png](img.png)"
 ---
 
 ![img.png](img.png)
