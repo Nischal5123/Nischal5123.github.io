@@ -5,10 +5,11 @@ permalink: /projects/2023-01-paper-title-number-4
 excerpt: "Exploratory visual analysis (EVA) is an essential stage of the
 data science pipeline, where users often lack clear analysis
 goals..."
-date: 2023-12-12
+date: 
 venue: "AAAI"
-#paperurl: 'http://dx.doi.org/10.5220/0010240707810786'
+paperurl: 'https://arxiv.org/pdf/2312.09407.pdf'
 #citation: "" 
+![HEAD-Image.png](HEAD-Image.png)
 ---
 Exploratory visual analysis (EVA) is an essential stage of the
 data science pipeline, where users often lack clear analysis
