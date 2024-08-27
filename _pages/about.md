@@ -15,15 +15,17 @@ I also study challenges at other stages of the data science pipeline, such as da
 
 I also support various graduate and undergraduate courses as a Graduate Assistant.
 
+- **Machine/Reinforcement Learning**
 - **Information Visualization**
 - **Data Science**
 - **Human-Computer-Interaction**
-- **Machine/Reinforcement Learning**
+
 
 My background is in ML/Data Engineering and Software Development. 
 I previously interned at Strategic Systems, [Alfa Insurance](https://www.alfainsurance.com/about-alfa), where I rotated roles in an Agile software development cycle. I also worked as a Software Engineer at Alfa Insurance, specializing in MuleSoft development. Most recently, I completed a ML/Data Engineering internship at [Slalom Build](https://www.slalombuild.com/data-engineering), where I researched and developed an end-to-end data pipeline to infer employee happiness index
 
 ## Recent News
+- **Started my Data and Visualization Scientist internship at [Inari Agriculture](https://inari.com/) @ Purdue University Research Park**
 - **Our Human-Aware System, ['ShiftScope: Adapting Visualization Recommendations to Users’ Dynamic Data Focus'](http://nischal5123.github.io/files/SIGMOD_Shiftscope.pdf) will be demoed at [SIGMOD,2024](https://2024.sigmod.org/index.shtml)**
 - **Our work on integrating user into Interactive Data Exploration workflow,['User Learning In Interactive Data Exploration'](https://research.engr.oregonstate.edu/idea/sites/research.engr.oregonstate.edu.idea/files/icde_24_paper.pdf) has been accepted to [ICDE,2024](https://icde2024.github.io/CFP_lightning.html)**
 - **Our work on Machine Learning over Incomplete Data,['Certain and Approximately Certain Statistical Models'](https://research.engr.oregonstate.edu/idea/ml-over-dirty-data) has been accepted to [SIGMOD,2024](https://2024.sigmod.org/index.shtml)**
