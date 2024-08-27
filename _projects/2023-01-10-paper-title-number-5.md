@@ -28,3 +28,5 @@ question: how might users’ exploration behavior evolve in re-
 sponse to what they have learned from the data during EVA?
 We present our findings and discuss their implications for the
 future of user modeling for system design.
+
+[Download paper here](https://arxiv.org/pdf/2312.09407.pdf)

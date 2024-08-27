@@ -6,7 +6,7 @@ date: 2024-08-04
 venue: 
 paperurl: http://nischal5123.github.io/files/Minimal_Imputation.pdf
 citation: 
-excerpt: "Missing data often exists in real-world datasets, requiring significant time and effort for imputation to learn accurate ma- chine learning (ML) models. "
+excerpt: "Missing data often exists in real-world datasets, requiring significant time and effort for imputation to learn accurate ma- chine learning (ML) models..![img_2.png](img_2.png) "
 ---
 
 ![img_2.png](img_2.png)

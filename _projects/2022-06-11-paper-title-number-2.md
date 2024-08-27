@@ -8,7 +8,7 @@ is that of finding an appropriate model complexity under the
 empirical risk minimization setting... ![img_1.png](img_1.png)"
 date: 2022-06-11
 venue: 
-paperurl: http://nischal5123.github.io/files/paper_2.pdf
+paperurl: http://nischal5123.github.io/files/paper2.pdf
 citation: 
 ---
 ![img_1.png](img_1.png)
@@ -23,3 +23,5 @@ which can supplement conventional test accuracy as a metric for reporting perfor
 have on consistent (reproducible) predictions. Our findings
 across multiple benchmark image recognition datasets indicate that the structure of a feed-forward neural network is a
 higher weighted factor than other explicitly added regularization methods for improving reproducibility
+
+DOWNLOAD PAPER [here](http://nischal5123.github.io/files/paper2.pdf)
