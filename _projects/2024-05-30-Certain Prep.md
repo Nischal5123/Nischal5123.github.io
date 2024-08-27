@@ -1,8 +1,8 @@
 ---
-title: "ShiftScope: Adapting Visualization Recommendations to Users’ Dynamic Data Focus"
+title: "CertainPrep: Human-in-the-Loop On-Demand Imputations for Supervised Learning Data Prep"
 collection: projects
-permalink: /projects/2024-04-04-shift-scope
-date: 2024-04-04
+permalink: /projects/2024-05-30-Certain-Prep
+date: 2024-05-30
 venue: 
 paperurl: http://nischal5123.github.io/files/CertainPrep.pdf
 citation: 
