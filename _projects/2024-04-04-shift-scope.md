@@ -3,7 +3,7 @@ title: "ShiftScope: Adapting Visualization Recommendations to Users’ Dynamic D
 collection: projects
 permalink: /projects/2024-04-04-shift-scope
 date: 2024-04-04
-venue: SIGMOD
+venue: "SIGMOD"
 paperurl: http://nischal5123.github.io/files/SIGMOD_Shiftscope.pdf
 citation: 
 excerpt: "Visualization Recommendation Systems help users discover important insights during data exploration. These systems should understand users' exploration..![ShiftScope.png](ShiftScope.png) "
