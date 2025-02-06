@@ -24,4 +24,11 @@ have on consistent (reproducible) predictions. Our findings
 across multiple benchmark image recognition datasets indicate that the structure of a feed-forward neural network is a
 higher weighted factor than other explicitly added regularization methods for improving reproducibility
 
-DOWNLOAD PAPER [here](http://nischal5123.github.io/files/paper2.pdf)
+<div style="text-align: center;">
+    <a href="http://nischal5123.github.io/files/paper2.pdf" target="_blank" 
+       style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; 
+              color: #fff; background-color: #0073e6; text-decoration: none; 
+              border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);">
+        📥 Download Paper
+    </a>
+</div>

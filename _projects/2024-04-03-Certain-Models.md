@@ -28,5 +28,15 @@ experiments indicate that our proposed algorithms significantly
 reduce the amount of time and effort needed for data imputation
 without imposing considerable computational overhead.
 
-Download paper [here](https://arxiv.org/pdf/2402.17926.pdf)
+
+<div style="text-align: center;">
+    <a href="https://arxiv.org/pdf/2402.17926.pdf" target="_blank" 
+       style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; 
+              color: #fff; background-color: #0073e6; text-decoration: none; 
+              border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);">
+        📥 Download Paper
+    </a>
+</div>
+
+
 ```

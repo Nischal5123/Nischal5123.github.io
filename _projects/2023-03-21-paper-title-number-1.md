@@ -22,5 +22,15 @@ on datasets from three popular domains and show its effectiveness, achieving clo
 complex negative samples, indicating its potential to benefit
 any domain that relies on user feedback
 
-DOWNLOAD PAPER [here](http://nischal5123.github.io/files/Paper_Find_your_Match__Towards_Simulating_User_Relevance_Feedback.pdf)
+
+<div style="text-align: center;">
+    <a href="http://nischal5123.github.io/files/Paper_Find_your_Match__Towards_Simulating_User_Relevance_Feedback.pdf" target="_blank" 
+       style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; 
+              color: #fff; background-color: #0073e6; text-decoration: none; 
+              border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);">
+        📥 Download Paper
+    </a>
+</div>
+
+
 ```
