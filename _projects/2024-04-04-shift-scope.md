@@ -9,7 +9,7 @@ citation:
 excerpt: "Visualization Recommendation Systems help users discover important insights during data exploration. These systems should understand users' exploration..![ShiftScope.png](ShiftScope.png) "
 ---
 
-![img.png](img.png)
+![ShiftScope.png](ShiftScope.png)
 --- 
 
 
