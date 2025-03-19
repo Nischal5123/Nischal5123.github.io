@@ -27,7 +27,7 @@ Apart from research, my hands on technical and product delivery background is as
 I also mentor ~30 undergraduates year round for CS Capstone projects and support other graduate courses at OSU.
 
 ## Recent News
-- **Our benchmark user modeling study ['Analyzing the Shifts in Users Data Focus in Exploratory Visual Analysis'](http://nischal5123.github.io/files/IUI25-Data-Focus.pdf) has been accepted to [IUI,2025](https://iui.acm.org/2025/)**
+- **Our benchmark user modeling study ['Analyzing the Shifts in Users Data Focus in Exploratory Visual Analysis'](https://dl.acm.org/doi/10.1145/3708359.3712154) has been accepted to [IUI,2025](https://iui.acm.org/2025/)**
 - **Started my Data and Visualization Scientist internship at [Inari Agriculture](https://inari.com/) @ Purdue University Research Park**
 - **Our Human-Aware System, ['ShiftScope: Adapting Visualization Recommendations to Users’ Dynamic Data Focus'](http://nischal5123.github.io/files/SIGMOD_Shiftscope.pdf) will be demoed at [SIGMOD,2024](https://2024.sigmod.org/index.shtml)**
 - **Our work on integrating user into Interactive Data Exploration workflow,['User Learning In Interactive Data Exploration'](https://research.engr.oregonstate.edu/idea/sites/research.engr.oregonstate.edu.idea/files/icde_24_paper.pdf) has been accepted to [ICDE,2024](https://icde2024.github.io/CFP_lightning.html)**
