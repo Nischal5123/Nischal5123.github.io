@@ -27,6 +27,8 @@ Apart from research, my hands on technical and product delivery background is as
 I also mentor ~30 undergraduates year round for CS Capstone projects and support other graduate courses at OSU.
 
 ## Recent News
+- **Another paper has been accepted to [VLDB,2025](https://karmaresearch.github.io/NILS2025/) workshop on Large-Scale Neurosymbolic Learning Systems (LS-NSL) workshop**
+- **Our paper on minimal imputation for data preparation has been accepted to [DEEM @ VLDB,2025](https://deem-workshop.github.io/)**
 - **Our benchmark user modeling study ['Analyzing the Shifts in Users Data Focus in Exploratory Visual Analysis'](https://dl.acm.org/doi/10.1145/3708359.3712154) has been accepted to [IUI,2025](https://iui.acm.org/2025/)**
 - **Started my Data and Visualization Scientist internship at [Inari Agriculture](https://inari.com/) @ Purdue University Research Park**
 - **Our Human-Aware System, ['ShiftScope: Adapting Visualization Recommendations to Users’ Dynamic Data Focus'](http://nischal5123.github.io/files/SIGMOD_Shiftscope.pdf) will be demoed at [SIGMOD,2024](https://2024.sigmod.org/index.shtml)**
