@@ -12,6 +12,8 @@ excerpt: " "
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="projects-container">
+  {% for post in site.projects reversed %}
+    {% include archive-single.html type="list" %}
+  {% endfor %}
+</div>

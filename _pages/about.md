@@ -26,16 +26,60 @@ Apart from research, my hands on technical and product delivery background is as
 
 I also mentor ~30 undergraduates year round for CS Capstone projects and support other graduate courses at OSU.
 
-## Recent News
-- **Another paper has been accepted to [VLDB,2025](https://karmaresearch.github.io/NILS2025/) workshop on Large-Scale Neurosymbolic Learning Systems (LS-NSL) workshop**
-- **Our paper on minimal imputation for data preparation has been accepted to [DEEM @ VLDB,2025](https://deem-workshop.github.io/)**
-- **Our benchmark user modeling study ['Analyzing the Shifts in Users Data Focus in Exploratory Visual Analysis'](https://dl.acm.org/doi/10.1145/3708359.3712154) has been accepted to [IUI,2025](https://iui.acm.org/2025/)**
-- **Started my Data and Visualization Scientist internship at [Inari Agriculture](https://inari.com/) @ Purdue University Research Park**
-- **Our Human-Aware System, ['ShiftScope: Adapting Visualization Recommendations to Users’ Dynamic Data Focus'](http://nischal5123.github.io/files/SIGMOD_Shiftscope.pdf) will be demoed at [SIGMOD,2024](https://2024.sigmod.org/index.shtml)**
-- **Our work on integrating user into Interactive Data Exploration workflow,['User Learning In Interactive Data Exploration'](https://research.engr.oregonstate.edu/idea/sites/research.engr.oregonstate.edu.idea/files/icde_24_paper.pdf) has been accepted to [ICDE,2024](https://icde2024.github.io/CFP_lightning.html)**
-- **Our work on Machine Learning over Missing Data,['Certain and Approximately Certain Statistical Models'](https://research.engr.oregonstate.edu/idea/ml-over-dirty-data) has been accepted to [SIGMOD,2024](https://2024.sigmod.org/index.shtml)**
-- **Our work ['How does user behavior evolve in Exploratory Visual Analysis'](https://arxiv.org/pdf/2312.09407.pdf) has been accepted to [CAIHu,AAAI,2024](https://sites.google.com/view/collab-ai-and-human-modeling/home)**
-- **Presented ['Analyzing User Learning in Interactive Data Exploration'](https://www.researchgate.net/publication/376450321_Analyzing_User_Learning_in_Interactive_Data_Exploration) at [NWDS](https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/) @ Microsoft Research**
-- **1st place [Graduate Students' Visualize Your Bibliography Competition](https://guides.library.oregonstate.edu/c.php?g=897062&p=9728058)**
+
+<div class="news-section">
+  <h2>📰 Recent News</h2>
+  <div class="news-container">
+    <div class="news-item">
+      <div class="news-date">April 2025</div>
+      <strong>Another paper has been accepted to <a href="https://karmaresearch.github.io/NILS2025/" target="_blank">VLDB,2025</a> workshop on Large-Scale Neurosymbolic Learning Systems (LS-NSL) workshop</strong>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">March 2025</div>
+      <strong>Our paper on minimal imputation for data preparation has been accepted to <a href="https://deem-workshop.github.io/" target="_blank">DEEM @ VLDB,2025</a></strong>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">January 2025</div>
+      <strong>Our benchmark user modeling study <a href="https://dl.acm.org/doi/10.1145/3708359.3712154" target="_blank">'Analyzing the Shifts in Users Data Focus in Exploratory Visual Analysis'</a> has been accepted to <a href="https://iui.acm.org/2025/" target="_blank">IUI,2025</a></strong>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">June 2024</div>
+      <strong>Started my Data and Visualization Scientist internship at <a href="https://inari.com/" target="_blank">Inari Agriculture</a> @ Purdue University Research Park</strong>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">April 2024</div>
+      <strong>Our Human-Aware System, <a href="http://nischal5123.github.io/files/SIGMOD_Shiftscope.pdf" target="_blank">'ShiftScope: Adapting Visualization Recommendations to Users' Dynamic Data Focus'</a> will be demoed at <a href="https://2024.sigmod.org/index.shtml" target="_blank">SIGMOD,2024</a></strong>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">March 2024</div>
+      <strong>Our work on integrating user into Interactive Data Exploration workflow,<a href="https://research.engr.oregonstate.edu/idea/sites/research.engr.oregonstate.edu.idea/files/icde_24_paper.pdf" target="_blank">'User Learning In Interactive Data Exploration'</a> has been accepted to <a href="https://icde2024.github.io/CFP_lightning.html" target="_blank">ICDE,2024</a></strong>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">February 2024</div>
+      <strong>Our work on Machine Learning over Missing Data,<a href="https://research.engr.oregonstate.edu/idea/ml-over-dirty-data" target="_blank">'Certain and Approximately Certain Statistical Models'</a> has been accepted to <a href="https://2024.sigmod.org/index.shtml" target="_blank">SIGMOD,2024</a></strong>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">December 2023</div>
+      <strong>Our work <a href="https://arxiv.org/pdf/2312.09407.pdf" target="_blank">'How does user behavior evolve in Exploratory Visual Analysis'</a> has been accepted to <a href="https://sites.google.com/view/collab-ai-and-human-modeling/home" target="_blank">CAIHu,AAAI,2024</a></strong>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">November 2023</div>
+      <strong>Presented <a href="https://www.researchgate.net/publication/376450321_Analyzing_User_Learning_in_Interactive_Data_Exploration" target="_blank">'Analyzing User Learning in Interactive Data Exploration'</a> at <a href="https://www.microsoft.com/en-us/research/event/northwest-database-society-nwds-annual-meeting-2023/" target="_blank">NWDS</a> @ Microsoft Research</strong>
+    </div>
+    
+    <div class="news-item">
+      <div class="news-date">October 2023</div>
+      <strong>1st place <a href="https://guides.library.oregonstate.edu/c.php?g=897062&p=9728058" target="_blank">Graduate Students' Visualize Your Bibliography Competition</a></strong>
+    </div>
+  </div>
+</div>
 
 

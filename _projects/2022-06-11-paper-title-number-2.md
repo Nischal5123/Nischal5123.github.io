@@ -2,33 +2,32 @@
 title: "Do Regularizers improve “Reproducibility” in Deep Neural Networks?"
 collection: projects
 permalink: /projects/2022-06-11-paper-title-number-2
-excerpt: " A known problem with training deep neural networks,
-mostly parameterized by connection weights at each layer,
-is that of finding an appropriate model complexity under the
-empirical risk minimization setting... ![img_1.png](img_1.png)"
+excerpt: "A known problem with training deep neural networks, mostly parameterized by connection weights at each layer, is that of finding an appropriate model complexity under the empirical risk minimization setting."
 date: 2022-06-11
-venue: 
+venue: "Conference"
 paperurl: http://nischal5123.github.io/files/paper2.pdf
+header:
+  teaser: img_1.png
 citation: 
 ---
-![img_1.png](img_1.png)
----
-A known problem with training deep neural networks,mostly parameterized by connection weights at each layer, is that of finding an appropriate model complexity under the empirical risk minimization setting. Ideally, the goal is for
-the model to produce a satisfactory indication of high accuracy while retaining the attractive property of performance
-reproducibility (generalization), at least, on a test-set assumed to be drawn from the same distribution as the trainset. In an attempt to address such problems, a lot of regularization methods have been proposed. In this work, we empirically study regularization and reproducibility from the
-perspective of test-set prediction consistency across several
-training runs. We then introduce effective test accuracy as
-a trust-measure on the predictions made during training,
-which can supplement conventional test accuracy as a metric for reporting performance. Specifically, we use the metric to quantify the effect that common categories of regularizers used in training deep feed-forward neural networks
-have on consistent (reproducible) predictions. Our findings
-across multiple benchmark image recognition datasets indicate that the structure of a feed-forward neural network is a
-higher weighted factor than other explicitly added regularization methods for improving reproducibility
 
-<div style="text-align: center;">
-    <a href="http://nischal5123.github.io/files/paper2.pdf" target="_blank" 
-       style="display: inline-block; padding: 12px 20px; font-size: 16px; font-weight: bold; 
-              color: #fff; background-color: #0073e6; text-decoration: none; 
-              border-radius: 8px; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);">
+<div class="project-header">
+  <h1>Do Regularizers improve “Reproducibility” in Deep Neural Networks?</h1>
+  <div class="project-meta">
+    <strong>Conference 2022</strong> • Published in June 2022
+  </div>
+</div>
+
+<div class="project-card">
+  ![img_1.png](img_1.png)
+  
+  ## Abstract
+  
+  
+</div>
+
+<div style="text-align: center; margin: 2em 0;">
+    <a href="http://nischal5123.github.io/files/paper2.pdf" target="_blank" class="btn-enhanced btn-primary">
         📥 Download Paper
     </a>
 </div>
