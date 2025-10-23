@@ -32,7 +32,7 @@ I also mentor ~30 undergraduates year round for CS Capstone projects and support
   <div class="news-container">
  <div class="news-item">
       <div class="news-date">September 2025</div>
-      <strong>Our [paper](https://openreview.net/pdf?id=ehpewotzMI) has been accepted to <a href="https://reliablemlworkshop.github.io/#call" target="_blank">NeurIPS,2025</a> workshop on Reliable ML from Unreliable Data workshop</strong>
+      <strong>Our <a href="https://openreview.net/pdf?id=ehpewotzMI" target="_blank">paper</a> has been accepted to <a href="https://reliablemlworkshop.github.io/#call" target="_blank">NeurIPS,2025</a> workshop on Reliable ML from Unreliable Data workshop</strong>
     </div>
     <div class="news-item">
       <div class="news-date">April 2025</div>
