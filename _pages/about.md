@@ -13,7 +13,6 @@ I am a Computer Science Graduate student at [Oregon State University](https://or
 I conduct research in broadly in the area of Human Data Interaction. We build [interactive data-centric systems](https://www.youtube.com/watch?v=n-jST9ShrfU) that [collaborate with humans](https://research.engr.oregonstate.edu/idea/sites/research.engr.oregonstate.edu.idea/files/aaai24_caihu.pdf) to achieve common goals, e.g., training Machine learning (ML) models or exploring data, empowering end-users to better understand their data, develop insights, and communicate results.
 I also study challenges at other stages of the ML pipeline, such as data cleaning. For instance, by design methods to train accurate [ML models over dirty data without any cleaning](https://www.youtube.com/watch?v=WBd7OrUfBBk), minimizing human intervention in data synthesis.
 
-More recently, I am working on methods for privacy-preserving collaboration with AI and Large Language Models (LLMs).
 
 
 - **Machine/Reinforcement Learning**
