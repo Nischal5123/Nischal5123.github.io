@@ -57,9 +57,23 @@
       {% if post.collection == 'projects' %}
         <div class="venue-year">{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}</div>
       {% endif %}
-      {% if post.paperurl %}
-        <div class="paper-link">
-          <a href="{{ post.paperurl }}" target="_blank">Paper</a>
+      {% if post.paperurl or post.codeurl or post.slidesurl %}
+        <div class="project-links">
+          {% if post.paperurl %}
+            <span class="paper-link">
+              <a href="{{ post.paperurl }}" target="_blank">Paper</a>
+            </span>
+          {% endif %}
+          {% if post.codeurl %}
+            <span class="paper-link">
+              <a href="{{ post.codeurl }}" target="_blank">Code + Data</a>
+            </span>
+          {% endif %}
+          {% if post.slidesurl %}
+            <span class="paper-link">
+              <a href="{{ post.slidesurl }}" target="_blank">Slides</a>
+            </span>
+          {% endif %}
         </div>
       {% endif %}
     </div>

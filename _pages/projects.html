@@ -7,10 +7,11 @@ excerpt: " "
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  <p class="projects-scholar-link">You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u></p>
 {% endif %}
 
 {% include base_path %}
+
 
 <div class="projects-container">
   {% for post in site.projects reversed %}

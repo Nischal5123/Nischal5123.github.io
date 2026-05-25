@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="title desc">
+  <title id="title">User learning in interactive data exploration diagram</title>
+  <desc id="desc">A user explores linked visualizations while a focus trajectory evolves over time.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="1" stop-color="#f7f4ff"/>
+    </linearGradient>
+    <marker id="arrow" markerHeight="10" markerWidth="10" orient="auto" refX="8" refY="3">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#5a5ca8"/>
+    </marker>
+  </defs>
+  <rect width="800" height="480" rx="24" fill="url(#bg)"/>
+  <rect x="54" y="54" width="692" height="372" rx="22" fill="#ffffff" stroke="#dddff0" stroke-width="2"/>
+
+  <circle cx="145" cy="184" r="36" fill="#e6eef9" stroke="#46648c" stroke-width="3"/>
+  <circle cx="145" cy="164" r="13" fill="#46648c"/>
+  <path d="M113 209c12-22 52-22 64 0" fill="#46648c"/>
+  <text x="145" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#31465f">User</text>
+  <text x="145" y="278" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#5d6570">learns over time</text>
+
+  <g transform="translate(288 104)">
+    <rect width="360" height="234" rx="18" fill="#f9fbff" stroke="#cfd6ee" stroke-width="3"/>
+    <rect x="28" y="28" width="132" height="78" rx="12" fill="#edf5fb" stroke="#6b91b6"/>
+    <rect x="200" y="28" width="132" height="78" rx="12" fill="#f5effb" stroke="#8b78ba"/>
+    <rect x="28" y="136" width="304" height="70" rx="12" fill="#f4f7f3" stroke="#7e9b73"/>
+    <path d="M48 86 L82 60 L118 74 L146 42" fill="none" stroke="#46648c" stroke-width="5" stroke-linecap="round"/>
+    <g fill="#8b78ba">
+      <rect x="222" y="68" width="18" height="20"/><rect x="250" y="50" width="18" height="38"/><rect x="278" y="38" width="18" height="50"/><rect x="306" y="58" width="18" height="30"/>
+    </g>
+    <path d="M54 184 C94 140 130 196 178 160 S264 132 312 178" fill="none" stroke="#5a5ca8" stroke-width="5" stroke-linecap="round" marker-end="url(#arrow)"/>
+    <circle cx="54" cy="184" r="7" fill="#5a5ca8"/>
+    <circle cx="178" cy="160" r="7" fill="#5a5ca8"/>
+  </g>
+
+  <path d="M184 184H278" fill="none" stroke="#5a5ca8" stroke-width="5" marker-end="url(#arrow)"/>
+  <text x="468" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#414382">Evolving Data Focus</text>
+  <text x="468" y="408" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#606277">interactive exploration changes what users notice next</text>
+</svg>

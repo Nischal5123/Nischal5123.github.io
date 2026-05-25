@@ -7,18 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science Graduate student at [Oregon State University](https://oregonstate.edu/about), [Information & Data Management and Analytics (IDEA) Lab](https://research.engr.oregonstate.edu/idea/). My research is guided by [Professor Arash Termehchy](https://engineering.oregonstate.edu/people/arash-termehchy) and [Professor Leilani Battle](https://homes.cs.washington.edu/~leibatt/projects.html).
+I am a Computer Science graduate student at [Oregon State University](https://oregonstate.edu/about) in the [Information & Data Management and Analytics (IDEA) Lab](https://research.engr.oregonstate.edu/idea/). My research is guided by [Professor Arash Termehchy](https://engineering.oregonstate.edu/people/arash-termehchy).
+
+My research is broadly in human-data interaction, data management, and machine learning. I build data-centric systems that help people understand data, develop insights, and make decisions, while accounting for the fact that users, data sources, and ML systems may not always share the same incentives.
 
 
-I conduct research in broadly in the area of Human Data Interaction. We build [interactive data-centric systems](https://www.youtube.com/watch?v=n-jST9ShrfU) that [collaborate with humans](https://research.engr.oregonstate.edu/idea/sites/research.engr.oregonstate.edu.idea/files/aaai24_caihu.pdf) to achieve common goals, e.g., training Machine learning (ML) models or exploring data, empowering end-users to better understand their data, develop insights, and communicate results.
-I also study challenges at other stages of the ML pipeline, such as data cleaning. For instance, by design methods to train accurate [ML models over dirty data without any cleaning](https://www.youtube.com/watch?v=WBd7OrUfBBk), minimizing human intervention in data synthesis.
-
-
-
-- **Machine/Reinforcement Learning**
-- **Information Visualization**
-- **Data Science**
-- **Human-Computer-Interaction**
+- **Human-Data Interaction**
+- **Machine Learning**
+- **Responsible and User-Centered AI Systems**
 
 
 Apart from research, my hands on technical and product delivery background is as a Data Scientist, Data/ML Engineer and Software Engineer.
@@ -29,7 +25,17 @@ I also mentor ~30 undergraduates year round for CS Capstone projects and support
 <div class="news-section">
   <h2>📰 Recent News</h2>
   <div class="news-container">
- <div class="news-item">
+    <div class="news-item">
+      <div class="news-date">May 2026</div>
+      <strong>Our new preprint <a href="https://arxiv.org/pdf/2605.15504" target="_blank">'Learning with Conflicts of Interest'</a> is available on arXiv, with <a href="https://anonymous.4open.science/r/Learning-w-COI-4B41/README.md" target="_blank">code and data</a>.</strong>
+    </div>
+
+    <div class="news-item">
+      <div class="news-date">March 2026</div>
+      <strong>Our new preprint <a href="https://arxiv.org/pdf/2603.05704" target="_blank">'Querying with Conflicts of Interest'</a> is available on arXiv, with <a href="https://github.com/OSU-IDEA-Lab/Querying-With-Conflicts" target="_blank">code and data</a> and <a href="https://research.engr.oregonstate.edu/idea/sites/research.engr.oregonstate.edu.idea/files/querying-coi-slides.pdf" target="_blank">slides</a>.</strong>
+    </div>
+
+    <div class="news-item">
       <div class="news-date">September 2025</div>
       <strong>Our <a href="https://openreview.net/pdf?id=ehpewotzMI" target="_blank">paper</a> has been accepted to <a href="https://reliablemlworkshop.github.io/#call" target="_blank">NeurIPS,2025</a> workshop on Reliable ML from Unreliable Data workshop</strong>
     </div>
@@ -84,5 +90,3 @@ I also mentor ~30 undergraduates year round for CS Capstone projects and support
     </div>
   </div>
 </div>
-
-

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal repairs for incomplete data diagram</title>
+  <desc id="desc">An incomplete data table sends selected cells to minimal repairs before training a reliable model.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#fbfcff"/>
+      <stop offset="1" stop-color="#f2f7ef"/>
+    </linearGradient>
+    <marker id="arrow" markerHeight="10" markerWidth="10" orient="auto" refX="8" refY="3">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#3d6b48"/>
+    </marker>
+  </defs>
+  <rect width="800" height="480" rx="24" fill="url(#bg)"/>
+  <rect x="54" y="58" width="692" height="364" rx="22" fill="#ffffff" stroke="#dfe8dc" stroke-width="2"/>
+
+  <text x="176" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#304f38">Incomplete Data</text>
+  <g transform="translate(86 128)">
+    <rect width="210" height="180" rx="12" fill="#f7fbf8" stroke="#cfded1" stroke-width="2"/>
+    <g stroke="#cfded1" stroke-width="2">
+      <path d="M0 45h210M0 90h210M0 135h210"/>
+      <path d="M52 0v180M105 0v180M158 0v180"/>
+    </g>
+    <g fill="#77a784">
+      <circle cx="26" cy="22" r="8"/><circle cx="78" cy="22" r="8"/><circle cx="131" cy="22" r="8"/><circle cx="184" cy="22" r="8"/>
+      <circle cx="26" cy="68" r="8"/><circle cx="131" cy="68" r="8"/><circle cx="184" cy="68" r="8"/>
+      <circle cx="78" cy="113" r="8"/><circle cx="131" cy="113" r="8"/>
+      <circle cx="26" cy="158" r="8"/><circle cx="78" cy="158" r="8"/><circle cx="184" cy="158" r="8"/>
+    </g>
+    <g fill="#c85f46" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle">
+      <text x="78" y="76">?</text><text x="184" y="121">?</text><text x="131" y="166">?</text>
+    </g>
+  </g>
+
+  <rect x="348" y="156" width="150" height="124" rx="18" fill="#fff8e6" stroke="#bd8c24" stroke-width="3"/>
+  <text x="423" y="197" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#725412">Minimal</text>
+  <text x="423" y="226" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#725412">Repairs</text>
+  <text x="423" y="253" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#77633b">only where needed</text>
+
+  <rect x="566" y="142" width="130" height="150" rx="18" fill="#eef6ff" stroke="#426f9c" stroke-width="3"/>
+  <path d="M602 194 C622 166 659 166 676 194" fill="none" stroke="#426f9c" stroke-width="8" stroke-linecap="round"/>
+  <path d="M602 236 C626 214 656 214 676 236" fill="none" stroke="#426f9c" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="632" cy="214" r="12" fill="#426f9c"/>
+  <text x="631" y="326" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#2e557d">Reliable Model</text>
+
+  <path d="M296 218H338" fill="none" stroke="#3d6b48" stroke-width="5" marker-end="url(#arrow)"/>
+  <path d="M498 218H556" fill="none" stroke="#3d6b48" stroke-width="5" marker-end="url(#arrow)"/>
+  <rect x="178" y="352" width="444" height="34" rx="17" fill="#f6f8f5" stroke="#dfe8dc"/>
+  <text x="400" y="374" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#4e604e">Repair fewer values, preserve downstream accuracy</text>
+</svg>
