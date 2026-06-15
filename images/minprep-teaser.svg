@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" role="img" aria-labelledby="title desc">
+  <title id="title">MinPrep minimal data cleaning workflow</title>
+  <desc id="desc">A workflow showing incomplete training data, selected cleaning actions, and model training through MinPrep.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7fbff"/>
+      <stop offset="1" stop-color="#f4f8f2"/>
+    </linearGradient>
+    <marker id="arrow" markerHeight="10" markerWidth="10" orient="auto" refX="8" refY="3">
+      <path d="M0,0 L8,3 L0,6 Z" fill="#2f6f73"/>
+    </marker>
+  </defs>
+  <rect width="800" height="480" rx="24" fill="url(#bg)"/>
+  <rect x="54" y="56" width="692" height="368" rx="22" fill="#ffffff" stroke="#dce7e2" stroke-width="2"/>
+  <text x="400" y="104" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#254b50">MinPrep</text>
+  <text x="400" y="134" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#5b6b6e">minimal data cleaning for model training</text>
+
+  <g transform="translate(84 166)">
+    <text x="105" y="-18" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#35575a">Training Data</text>
+    <rect width="210" height="150" rx="12" fill="#f9fbfb" stroke="#cfdcde" stroke-width="2"/>
+    <g stroke="#cfdcde" stroke-width="2">
+      <path d="M0 38h210M0 75h210M0 112h210"/>
+      <path d="M52 0v150M105 0v150M158 0v150"/>
+    </g>
+    <g fill="#78a890">
+      <circle cx="26" cy="19" r="7"/><circle cx="78" cy="19" r="7"/><circle cx="131" cy="19" r="7"/><circle cx="184" cy="19" r="7"/>
+      <circle cx="26" cy="56" r="7"/><circle cx="131" cy="56" r="7"/><circle cx="184" cy="56" r="7"/>
+      <circle cx="78" cy="94" r="7"/><circle cx="184" cy="94" r="7"/>
+      <circle cx="26" cy="131" r="7"/><circle cx="78" cy="131" r="7"/><circle cx="131" cy="131" r="7"/>
+    </g>
+    <g fill="#c85f46" font-family="Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">
+      <text x="78" y="64">?</text><text x="131" y="101">?</text><text x="184" y="138">?</text>
+    </g>
+  </g>
+
+  <path d="M304 242H358" fill="none" stroke="#2f6f73" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g transform="translate(366 166)">
+    <text x="95" y="-18" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#35575a">Select Repairs</text>
+    <rect width="190" height="150" rx="18" fill="#fff8e9" stroke="#c28b24" stroke-width="3"/>
+    <path d="M46 74l28 28 70-78" fill="none" stroke="#c28b24" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="95" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#705a28">clean only what matters</text>
+  </g>
+
+  <path d="M556 242H608" fill="none" stroke="#2f6f73" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g transform="translate(616 166)">
+    <text x="52" y="-18" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#35575a">Model</text>
+    <rect width="100" height="150" rx="18" fill="#edf5ff" stroke="#4b78a8" stroke-width="3"/>
+    <path d="M28 62 C42 35 70 35 82 62" fill="none" stroke="#4b78a8" stroke-width="8" stroke-linecap="round"/>
+    <path d="M28 96 C44 78 68 78 82 96" fill="none" stroke="#4b78a8" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="55" cy="78" r="11" fill="#4b78a8"/>
+    <text x="50" y="128" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#3f5f80">train</text>
+  </g>
+
+  <rect x="176" y="358" width="448" height="34" rx="17" fill="#f5f8f7" stroke="#dce7e2"/>
+  <text x="400" y="380" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#4e6063">Targeted cleaning before supervised model training</text>
+</svg>
