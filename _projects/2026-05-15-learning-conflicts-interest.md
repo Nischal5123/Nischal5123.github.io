@@ -9,7 +9,7 @@ codeurl: https://anonymous.4open.science/r/Learning-w-COI-4B41/README.md
 citation: "Aryal, N., Termehchy, A., Vakilian, A., & Winslett, M. (2026). Learning with Conflicts of Interest. arXiv:2605.15504 [cs.LG]."
 excerpt: "This paper models interactions between users and ML systems whose incentives may not be aligned. It proposes a game-theoretic framework and scalable algorithms that help users benefit from ML systems while reducing biased or manipulative actions."
 header:
-  teaser: learning-conflicts-teaser.svg
+  teaser: learning-conflicts-teaser.png
 ---
 
 <div class="project-header">
@@ -21,7 +21,7 @@ header:
 
 <div class="project-card" markdown="1">
 
-<img src="/images/learning-conflicts-teaser.svg" alt="Learning with conflicts of interest diagram">
+<img src="/images/learning-conflicts-teaser.png" alt="Learning with conflicts of interest diagram">
 
 ## Overview
 

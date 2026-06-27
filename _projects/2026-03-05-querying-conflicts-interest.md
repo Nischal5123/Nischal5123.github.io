@@ -10,7 +10,7 @@ codeurl: https://github.com/OSU-IDEA-Lab/Querying-With-Conflicts
 citation: "Aryal, N., Termehchy, A., & Winslett, M. (2026). Querying with Conflicts of Interest. arXiv:2603.05704 [cs.DB]."
 excerpt: "This paper studies how users can query data sources that may intentionally return biased answers because their incentives do not align with the user's information needs. It proposes algorithms to detect biased information and reformulate queries to recover more relevant results."
 header:
-  teaser: querying-conflicts-teaser.svg
+  teaser: querying-conflicts-teaser.png
 ---
 
 <div class="project-header">
@@ -22,7 +22,7 @@ header:
 
 <div class="project-card" markdown="1">
 
-<img src="/images/querying-conflicts-teaser.svg" alt="Querying with conflicts of interest diagram">
+<img src="/images/querying-conflicts-teaser.png" alt="Querying with conflicts of interest diagram">
 
 ## Overview
 
