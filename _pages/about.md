@@ -26,18 +26,18 @@ I also mentor ~30 undergraduates year round for CS Capstone projects and support
   <h2>📰 Recent News</h2>
   <div class="news-container">
     <div class="news-item">
+      <div class="news-date">October 2026</div>
+      <strong>Our papers <a href="https://arxiv.org/pdf/2603.05704" target="_blank">'Querying with Conflicts of Interest'</a> and <a href="https://arxiv.org/pdf/2605.15504" target="_blank">'Learning with Conflicts of Interest'</a> have been accepted to the <a href="https://bialign-workshop.github.io/neurips2026" target="_blank">BiAlign workshop at NeurIPS 2026</a>.</strong>
+    </div>
+
+    <div class="news-item">
       <div class="news-date">July 2026</div>
-      <strong>Our paper <a href="https://arxiv.org/pdf/2603.05704" target="_blank">'Querying with Conflicts of Interest'</a> has been accepted to the <a href="https://dashsys-workshop-vldb.github.io/" target="_blank">DaSHSys workshop at VLDB 2026</a>.</strong>
+      <strong>A short version of <a href="https://vldb.org/2026/Workshops/VLDB-Workshops-2026/DASHSys/DASHSys26_28.pdf" target="_blank">'Querying with Conflicts of Interest'</a> appeared at the <a href="https://dashsys-workshop-vldb.github.io/" target="_blank">DaSHSys workshop at VLDB 2026</a>.</strong>
     </div>
 
     <div class="news-item">
       <div class="news-date">June 2026</div>
       <strong>Our demo paper <a href="https://research.engr.oregonstate.edu/idea/sites/research.engr.oregonstate.edu.idea/files/vldb_demo_minprep.pdf" target="_blank">'Minimal Data Cleaning for Model Training by MinPrep'</a> has been accepted to PVLDB 2026.</strong>
-    </div>
-
-    <div class="news-item">
-      <div class="news-date">May 2026</div>
-      <strong>Our new preprint <a href="https://arxiv.org/pdf/2605.15504" target="_blank">'Learning with Conflicts of Interest'</a> is available on arXiv, with <a href="https://anonymous.4open.science/r/Learning-w-COI-4B41/README.md" target="_blank">code and data</a>.</strong>
     </div>
 
     <div class="news-item">
